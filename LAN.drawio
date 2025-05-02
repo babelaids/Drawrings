@@ -5,16 +5,24 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="G_Ov1QlXbdiees7LgXbw-1" value="&lt;div&gt;Internet&lt;/div&gt;" style="shape=mxgraph.cisco.storage.cloud;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=middle;verticalAlign=middle;align=center;outlineConnect=0;labelPosition=center;" vertex="1" parent="1">
-          <mxGeometry x="460" y="10" width="116" height="80" as="geometry" />
+          <mxGeometry x="60" y="30" width="116" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G_Ov1QlXbdiees7LgXbw-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="G_Ov1QlXbdiees7LgXbw-1">
+        <mxCell id="G_Ov1QlXbdiees7LgXbw-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.966;exitY=0.606;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="G_Ov1QlXbdiees7LgXbw-1" target="G_Ov1QlXbdiees7LgXbw-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="90" as="sourcePoint" />
             <mxPoint x="520" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="G_Ov1QlXbdiees7LgXbw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G_Ov1QlXbdiees7LgXbw-3" target="G_Ov1QlXbdiees7LgXbw-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="79.00000000000011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G_Ov1QlXbdiees7LgXbw-3" value="Modem" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;" vertex="1" parent="1">
-          <mxGeometry x="468" y="150" width="100" height="30" as="geometry" />
+          <mxGeometry x="240" y="64" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G_Ov1QlXbdiees7LgXbw-7" value="TP-Link Router" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn-reichelt.de/resize/600%2F-/web/xxl_ws/E910%2FTPLINK_FR205_03.png?type=ProductXxl&amp;resize=600%252F-&amp;;" vertex="1" parent="1">
+          <mxGeometry x="402" y="63" width="117.93" height="31.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
